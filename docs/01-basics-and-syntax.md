@@ -6,4 +6,4 @@ for immutable variable we use `let`. In the other hand, we use `var` for mutable
 ```cangjie
 let name: String = "MyName"     // can not be changed (immutable)
 var score: Int64 = 90           // can be changed (mutable)
-score = 95
+score = 95;
