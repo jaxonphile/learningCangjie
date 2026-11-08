@@ -1,0 +1,9 @@
+# Cangjie build & cache artifacts
+target/
+.cache/
+
+# VS Code settings
+.vscode/
+
+# Package lock 
+# cjpm.lock
