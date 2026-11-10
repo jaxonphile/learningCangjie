@@ -1,9 +1,21 @@
 # Cangjie build & cache artifacts
 target/
 .cache/
+*.cjo
+*.cj.o
+
+# Binary hasil kompilasi cjc di folder src
+src/learning*
+!src/*.cj
 
 # VS Code settings
 .vscode/
+
+# OS metadata & temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
 
 # Package lock 
 # cjpm.lock
