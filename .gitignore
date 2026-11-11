@@ -6,6 +6,7 @@ target/
 
 # Binary hasil kompilasi cjc di folder src
 src/learning*
+src/exercise*
 !src/*.cj
 
 # VS Code settings
